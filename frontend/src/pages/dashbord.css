@@ -1,0 +1,75 @@
+.dash_fancy h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
+.dash_hero-image img{
+    margin-top: 5rem;
+    width: 35rem;
+}
+
+.card{
+/* Rectangle 2 */
+
+position: absolute;
+width: 342px;
+height: 452px;
+left: 944px;
+top: 250px;
+
+background: #B6CCFD;
+border-radius: 20px;
+
+}
+.winner-info{
+    display: flex;
+    justify-content: center;
+}
+.winnerinfo{
+    padding: 1rem 3rem;
+}
+.winnerinfo img{
+    margin-top: 2.5rem;   
+}
+.recta1{
+/* Rectangle 3 */
+
+position: absolute;
+left: 21%;
+right: 0%;
+top: 140%;
+bottom: 59.29%;
+width: 15rem;
+height: 3rem;
+background: #C4C4C4;
+border-radius: 40px;
+
+}
+.recta2{
+/* Rectangle 3 */
+
+position: absolute;
+left: 41%;
+right: 0%;
+top: 140%;
+bottom: 59.29%;
+width: 15rem;
+height: 3rem;
+background: #C4C4C4;
+border-radius: 40px;
+
+}
+.recta3{
+/* Rectangle 3 */
+
+position: absolute;
+left: 61%;
+right: 0%;
+top: 140%;
+bottom: 59.29%;
+width: 15rem;
+height: 3rem;
+background: #C4C4C4;
+border-radius: 40px;
+
+}
